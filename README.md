@@ -4,5 +4,5 @@ I downloaded the 120 years of Olympic history dataset from Kaggle. The dataset c
 
 ![olyimag](https://user-images.githubusercontent.com/107036397/188006582-81f7cf06-52ae-4841-bcb6-a3f9a1526251.jpg)
 
-Link to the code [Olympic data Code]
+Link to the code [Olympic data Code](https://github.com/zthedatagirl/olympicsdata/blob/476251ff0728ac7f3779541cdc836e9511420c70/Olympicgame%20Analysis.sql)
 
