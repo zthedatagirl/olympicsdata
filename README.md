@@ -6,7 +6,7 @@ I downloaded the 120 years of Olympic history dataset from Kaggle. The dataset c
 ![olyimag](https://user-images.githubusercontent.com/107036397/188006582-81f7cf06-52ae-4841-bcb6-a3f9a1526251.jpg)
 
 ## ABOUT
-The modern Olympic Games are the leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating. The Olympic Games are normally held every four years, and since 1994, have alternated between the Summer and Winter Olympics every two years during the four-year period.
+The modern Olympic Games are the leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world's foremost sports competition with more than 200 nations participating. The Olympic Games are normally held every four years, and since 1994, have alternated between the Summer and Winter Olympics every two years during the four-year period. Thus, it is important to know how Countries and Athletes have performed over the years.
 
 ## CONTENT
 
